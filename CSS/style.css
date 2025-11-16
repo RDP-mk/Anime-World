@@ -2,7 +2,7 @@
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 body{
-    background-image: url(/IMG/japan-background-digital-art.jpg);
+    background-image: url(IMG/japan-background-digital-art.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -67,7 +67,7 @@ main{
     width: fit-content;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: red;
-    background-image: url(/IMG/picture1\ \(1\).jpg);
+    background-image: url(IMG/picture1\ \(1\).jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -80,7 +80,7 @@ main{
     width: fit-content;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: green;
-    background-image: url(/IMG/picture1\ \(2\).jpg);
+    background-image: url(IMG/picture1\ \(2\).jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -93,7 +93,7 @@ main{
     width: fit-content;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: blue;
-    background-image: url(/IMG/picture1\ \(3\).jpg);
+    background-image: url(IMG/picture1\ \(3\).jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -142,7 +142,7 @@ h2,p{
     -webkit-text-stroke: 1px black;
 }
 .ail{
-    background-image: url(/IMG/picture1\ \(4\).png);
+    background-image: url(IMG/picture1\ \(4\).png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -167,7 +167,7 @@ h2,p{
     -webkit-text-stroke: 1px black;
 }
 .ail2{
-    background-image: url(/IMG/picture1\ \(5\).jpg);
+    background-image: url(IMG/picture1\ \(5\).jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -192,7 +192,7 @@ h2,p{
     -webkit-text-stroke: 1px black;
 }
 .ail3{
-    background-image: url(/IMG/picture1\ \(6\).jpg);
+    background-image: url(IMG/picture1\ \(6\).jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -209,7 +209,7 @@ h2,p{
     margin: 5px;
 }
 .ail4{
-    background-image: url(/IMG/picture1\ \(7\).jpg);
+    background-image: url(IMG/picture1\ \(7\).jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
